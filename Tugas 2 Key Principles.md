@@ -39,3 +39,22 @@ dan dilengkapi dengan judul dan label yang jelas. Visualisasi Data ini dapat men
     Pada gambar diatas memasukkan banyak elemen tambahan, seperti ilustrasi lebah yang tidak perlu dan bentuk hexagon yang lebih mengarah pada estetika daripada fungsi. Ini bisa mengalihkan perhatian dari informasi
     utama yang ingin disampaikan yaitu komposisi madu. Terdapat tanda panah yang digunaka untuk menunjukkan elemen-elemen kecil (seperti "Sucrose", "Minerals, Vitamins, Enzymes") yang tidak langsung ditampilkan
     dalam bentuk hexagon. Sementara tanda panah ini memisahkan elemen kecil dari representasi utama, keberadaan panah justru menambah kerumitan visual dan mengurangi kesederhanaan informasi.
+
+## Good Visualizatiom
+  ![image](https://github.com/user-attachments/assets/84090861-e978-4a30-95d2-7d02ac9d79a6)
+  - Kejelasan (_Clarity_)
+
+    Visualisasi ini sangat jelas dalam menyampaikan pesan utama. Penggunaan diagram lingkaran yang sederhana membagi dua kelompok (37% dan 63%) dengan warna kontras membuat pembaca langsung memahami perbandingan antara dua kategori. Tidak ada elemen yang membuat bingung atau menyulitkan audiens untuk memahami pesan.
+
+  - Ketepatan (_Accuracy_)
+
+    Diagram lingkaran ini memvisualisasikan data secara akurat sesuai dengan proporsi yang ada. Segmen 37% terlihat proporsional terhadap 63% dan ukuran tiap bagian seimbang dengan nilai yang direpresentasikan.
+
+  - Konsistensi (_Consistency_)
+
+    visualisasi ini konsisten baik dari segi penggunaan warna maupun representasi data. Warna kuning digunakan untuk menunjukkan segmen 37% sementara warna putih untuk 63%. Tidak ada perubahan atau variasi warna yang tidak perlu, sehingga pembaca dapat dengan mudah mengidentifikasi kedua kategori tersebut.
+
+  - Desain Minimalis (_Minimalist Desaign_)
+
+    Desain visualisasi ini minimalis dan tidak menambahkan elemen-elemen yang tidak relevan. Gambar dua figur (pria dan wanita) pada sisi kiri dan kanan diagram lingkaran dengan pakaian yang warnanya disesuaikan dengan segmen yang mereka wakili memberikan informasi tambahan tentang data, tetapi tidak mengalihkan perhatian dari data
+
